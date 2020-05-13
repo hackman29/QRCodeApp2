@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562991407136",
+    "firebase_url": "https://qrcodeflutter-b16c9.firebaseio.com",
+    "project_id": "qrcodeflutter-b16c9",
+    "storage_bucket": "qrcodeflutter-b16c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562991407136:android:2136a37cbc03994ff89c45",
+        "android_client_info": {
+          "package_name": "com.example.qrcodeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562991407136-tc8j6iotjm1scj0ilnlu1117lqb3skk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrcodeapp",
+            "certificate_hash": "1d48c2eab35671f4c4cc779b30686530e53ee6f1"
+          }
+        },
+        {
+          "client_id": "562991407136-rps6def0tg9ovhc058b5n07a81r52t10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHuJi_vE2DiCmtkvwiJmEo0giHbFke6SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562991407136-rps6def0tg9ovhc058b5n07a81r52t10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
